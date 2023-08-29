@@ -7,7 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DBBFDBC62A9CACAB005913BD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBC52A9CACAB005913BD /* main.swift */; };
+		DBBFDBED2A9CACC9005913BD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBCC2A9CACC7005913BD /* main.swift */; };
+		DBBFDBEE2A9CACC9005913BD /* Question278.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBCE2A9CACC7005913BD /* Question278.swift */; };
+		DBBFDBEF2A9CACC9005913BD /* Question283.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBD02A9CACC7005913BD /* Question283.swift */; };
+		DBBFDBF02A9CACC9005913BD /* Qustion136.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBD22A9CACC8005913BD /* Qustion136.swift */; };
+		DBBFDBF12A9CACC9005913BD /* Question977.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBD42A9CACC8005913BD /* Question977.swift */; };
+		DBBFDBF22A9CACC9005913BD /* Question5.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBD62A9CACC8005913BD /* Question5.swift */; };
+		DBBFDBF32A9CACC9005913BD /* Question167.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBD82A9CACC8005913BD /* Question167.swift */; };
+		DBBFDBF42A9CACC9005913BD /* Sort.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBDA2A9CACC8005913BD /* Sort.swift */; };
+		DBBFDBF52A9CACC9005913BD /* Question3.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBDD2A9CACC8005913BD /* Question3.swift */; };
+		DBBFDBF62A9CACC9005913BD /* Question22.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBDF2A9CACC8005913BD /* Question22.swift */; };
+		DBBFDBF72A9CACC9005913BD /* Question189.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBE12A9CACC9005913BD /* Question189.swift */; };
+		DBBFDBF82A9CACC9005913BD /* String+Ex.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBE32A9CACC9005913BD /* String+Ex.swift */; };
+		DBBFDBF92A9CACC9005913BD /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBE42A9CACC9005913BD /* String+Extension.swift */; };
+		DBBFDBFA2A9CACC9005913BD /* Question35.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBE62A9CACC9005913BD /* Question35.swift */; };
+		DBBFDBFB2A9CACC9005913BD /* Question704.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBE82A9CACC9005913BD /* Question704.swift */; };
+		DBBFDBFC2A9CACC9005913BD /* Question6.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBEA2A9CACC9005913BD /* Question6.swift */; };
+		DBBFDBFD2A9CACC9005913BD /* Question11.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBEC2A9CACC9005913BD /* Question11.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +40,23 @@
 
 /* Begin PBXFileReference section */
 		DBBFDBC22A9CACAB005913BD /* LeetCode_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
-		DBBFDBC52A9CACAB005913BD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DBBFDBCC2A9CACC7005913BD /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = main.swift; path = ../../XGDDemo/XGDDemo_Leetcode/main.swift; sourceTree = "<group>"; };
+		DBBFDBCE2A9CACC7005913BD /* Question278.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question278.swift; sourceTree = "<group>"; };
+		DBBFDBD02A9CACC7005913BD /* Question283.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question283.swift; sourceTree = "<group>"; };
+		DBBFDBD22A9CACC8005913BD /* Qustion136.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Qustion136.swift; sourceTree = "<group>"; };
+		DBBFDBD42A9CACC8005913BD /* Question977.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question977.swift; sourceTree = "<group>"; };
+		DBBFDBD62A9CACC8005913BD /* Question5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question5.swift; sourceTree = "<group>"; };
+		DBBFDBD82A9CACC8005913BD /* Question167.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question167.swift; sourceTree = "<group>"; };
+		DBBFDBDA2A9CACC8005913BD /* Sort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sort.swift; sourceTree = "<group>"; };
+		DBBFDBDD2A9CACC8005913BD /* Question3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question3.swift; sourceTree = "<group>"; };
+		DBBFDBDF2A9CACC8005913BD /* Question22.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question22.swift; sourceTree = "<group>"; };
+		DBBFDBE12A9CACC9005913BD /* Question189.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question189.swift; sourceTree = "<group>"; };
+		DBBFDBE32A9CACC9005913BD /* String+Ex.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Ex.swift"; sourceTree = "<group>"; };
+		DBBFDBE42A9CACC9005913BD /* String+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
+		DBBFDBE62A9CACC9005913BD /* Question35.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question35.swift; sourceTree = "<group>"; };
+		DBBFDBE82A9CACC9005913BD /* Question704.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question704.swift; sourceTree = "<group>"; };
+		DBBFDBEA2A9CACC9005913BD /* Question6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question6.swift; sourceTree = "<group>"; };
+		DBBFDBEC2A9CACC9005913BD /* Question11.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question11.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +89,145 @@
 		DBBFDBC42A9CACAB005913BD /* LeetCode_Swift */ = {
 			isa = PBXGroup;
 			children = (
-				DBBFDBC52A9CACAB005913BD /* main.swift */,
+				DBBFDBCC2A9CACC7005913BD /* main.swift */,
+				DBBFDBDC2A9CACC8005913BD /* 3. 无重复字符的最长子串 */,
+				DBBFDBD52A9CACC8005913BD /* 5. 最长回文子串  */,
+				DBBFDBE92A9CACC9005913BD /* 6. N 字形变换  */,
+				DBBFDBEB2A9CACC9005913BD /* 11. 盛最多水的容器 */,
+				DBBFDBDE2A9CACC8005913BD /* 22. 括号生成 */,
+				DBBFDBE52A9CACC9005913BD /* 35. 搜索插入位置  */,
+				DBBFDBD12A9CACC8005913BD /* 136. 只出现一次的数字  */,
+				DBBFDBD72A9CACC8005913BD /* 167. 两数之和 II - 输入有序数组  */,
+				DBBFDBE02A9CACC8005913BD /* 189. 轮转数组  */,
+				DBBFDBCD2A9CACC7005913BD /* 278. 第一个错误的版本  */,
+				DBBFDBCF2A9CACC7005913BD /* 283. 移动零  */,
+				DBBFDBE72A9CACC9005913BD /* 704. 二分查找  */,
+				DBBFDBD32A9CACC8005913BD /* 977. 有序数组的平方  */,
+				DBBFDBD92A9CACC8005913BD /* 数组排序 */,
+				DBBFDBE22A9CACC9005913BD /* 拓展 */,
 			);
 			path = LeetCode_Swift;
+			sourceTree = "<group>";
+		};
+		DBBFDBCD2A9CACC7005913BD /* 278. 第一个错误的版本  */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBCE2A9CACC7005913BD /* Question278.swift */,
+			);
+			path = "278. 第一个错误的版本 ";
+			sourceTree = "<group>";
+		};
+		DBBFDBCF2A9CACC7005913BD /* 283. 移动零  */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBD02A9CACC7005913BD /* Question283.swift */,
+			);
+			path = "283. 移动零 ";
+			sourceTree = "<group>";
+		};
+		DBBFDBD12A9CACC8005913BD /* 136. 只出现一次的数字  */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBD22A9CACC8005913BD /* Qustion136.swift */,
+			);
+			path = "136. 只出现一次的数字 ";
+			sourceTree = "<group>";
+		};
+		DBBFDBD32A9CACC8005913BD /* 977. 有序数组的平方  */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBD42A9CACC8005913BD /* Question977.swift */,
+			);
+			path = "977. 有序数组的平方 ";
+			sourceTree = "<group>";
+		};
+		DBBFDBD52A9CACC8005913BD /* 5. 最长回文子串  */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBD62A9CACC8005913BD /* Question5.swift */,
+			);
+			path = "5. 最长回文子串 ";
+			sourceTree = "<group>";
+		};
+		DBBFDBD72A9CACC8005913BD /* 167. 两数之和 II - 输入有序数组  */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBD82A9CACC8005913BD /* Question167.swift */,
+			);
+			path = "167. 两数之和 II - 输入有序数组 ";
+			sourceTree = "<group>";
+		};
+		DBBFDBD92A9CACC8005913BD /* 数组排序 */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBDA2A9CACC8005913BD /* Sort.swift */,
+			);
+			path = "数组排序";
+			sourceTree = "<group>";
+		};
+		DBBFDBDC2A9CACC8005913BD /* 3. 无重复字符的最长子串 */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBDD2A9CACC8005913BD /* Question3.swift */,
+			);
+			path = "3. 无重复字符的最长子串";
+			sourceTree = "<group>";
+		};
+		DBBFDBDE2A9CACC8005913BD /* 22. 括号生成 */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBDF2A9CACC8005913BD /* Question22.swift */,
+			);
+			path = "22. 括号生成";
+			sourceTree = "<group>";
+		};
+		DBBFDBE02A9CACC8005913BD /* 189. 轮转数组  */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBE12A9CACC9005913BD /* Question189.swift */,
+			);
+			path = "189. 轮转数组 ";
+			sourceTree = "<group>";
+		};
+		DBBFDBE22A9CACC9005913BD /* 拓展 */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBE32A9CACC9005913BD /* String+Ex.swift */,
+				DBBFDBE42A9CACC9005913BD /* String+Extension.swift */,
+			);
+			path = "拓展";
+			sourceTree = "<group>";
+		};
+		DBBFDBE52A9CACC9005913BD /* 35. 搜索插入位置  */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBE62A9CACC9005913BD /* Question35.swift */,
+			);
+			path = "35. 搜索插入位置 ";
+			sourceTree = "<group>";
+		};
+		DBBFDBE72A9CACC9005913BD /* 704. 二分查找  */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBE82A9CACC9005913BD /* Question704.swift */,
+			);
+			path = "704. 二分查找 ";
+			sourceTree = "<group>";
+		};
+		DBBFDBE92A9CACC9005913BD /* 6. N 字形变换  */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBEA2A9CACC9005913BD /* Question6.swift */,
+			);
+			path = "6. N 字形变换 ";
+			sourceTree = "<group>";
+		};
+		DBBFDBEB2A9CACC9005913BD /* 11. 盛最多水的容器 */ = {
+			isa = PBXGroup;
+			children = (
+				DBBFDBEC2A9CACC9005913BD /* Question11.swift */,
+			);
+			path = "11. 盛最多水的容器";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +288,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DBBFDBC62A9CACAB005913BD /* main.swift in Sources */,
+				DBBFDBED2A9CACC9005913BD /* main.swift in Sources */,
+				DBBFDBEF2A9CACC9005913BD /* Question283.swift in Sources */,
+				DBBFDBF72A9CACC9005913BD /* Question189.swift in Sources */,
+				DBBFDBF82A9CACC9005913BD /* String+Ex.swift in Sources */,
+				DBBFDBF42A9CACC9005913BD /* Sort.swift in Sources */,
+				DBBFDBFA2A9CACC9005913BD /* Question35.swift in Sources */,
+				DBBFDBF32A9CACC9005913BD /* Question167.swift in Sources */,
+				DBBFDBF62A9CACC9005913BD /* Question22.swift in Sources */,
+				DBBFDBF92A9CACC9005913BD /* String+Extension.swift in Sources */,
+				DBBFDBF02A9CACC9005913BD /* Qustion136.swift in Sources */,
+				DBBFDBFD2A9CACC9005913BD /* Question11.swift in Sources */,
+				DBBFDBEE2A9CACC9005913BD /* Question278.swift in Sources */,
+				DBBFDBF52A9CACC9005913BD /* Question3.swift in Sources */,
+				DBBFDBF12A9CACC9005913BD /* Question977.swift in Sources */,
+				DBBFDBF22A9CACC9005913BD /* Question5.swift in Sources */,
+				DBBFDBFB2A9CACC9005913BD /* Question704.swift in Sources */,
+				DBBFDBFC2A9CACC9005913BD /* Question6.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

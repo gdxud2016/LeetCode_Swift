@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DBB59C502A9D902500035E53 /* Question12.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBB59C4F2A9D902500035E53 /* Question12.swift */; };
+		DBB59C532A9DBAC800035E53 /* Question8.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBB59C522A9DBAC800035E53 /* Question8.swift */; };
 		DBBFDBED2A9CACC9005913BD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBCC2A9CACC7005913BD /* main.swift */; };
 		DBBFDBEE2A9CACC9005913BD /* Question278.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBCE2A9CACC7005913BD /* Question278.swift */; };
 		DBBFDBEF2A9CACC9005913BD /* Question283.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBFDBD02A9CACC7005913BD /* Question283.swift */; };
@@ -39,6 +41,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DBB59C4F2A9D902500035E53 /* Question12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question12.swift; sourceTree = "<group>"; };
+		DBB59C522A9DBAC800035E53 /* Question8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question8.swift; sourceTree = "<group>"; };
 		DBBFDBC22A9CACAB005913BD /* LeetCode_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBBFDBCC2A9CACC7005913BD /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = main.swift; path = ../../XGDDemo/XGDDemo_Leetcode/main.swift; sourceTree = "<group>"; };
 		DBBFDBCE2A9CACC7005913BD /* Question278.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question278.swift; sourceTree = "<group>"; };
@@ -70,6 +74,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DBB59C4E2A9D901700035E53 /* 12. 整数转罗马数字  */ = {
+			isa = PBXGroup;
+			children = (
+				DBB59C4F2A9D902500035E53 /* Question12.swift */,
+			);
+			path = "12. 整数转罗马数字 ";
+			sourceTree = "<group>";
+		};
+		DBB59C512A9DBAB700035E53 /* 8. 字符串转换整数 */ = {
+			isa = PBXGroup;
+			children = (
+				DBB59C522A9DBAC800035E53 /* Question8.swift */,
+			);
+			path = "8. 字符串转换整数";
+			sourceTree = "<group>";
+		};
 		DBBFDBB92A9CACAB005913BD = {
 			isa = PBXGroup;
 			children = (
@@ -93,7 +113,9 @@
 				DBBFDBDC2A9CACC8005913BD /* 3. 无重复字符的最长子串 */,
 				DBBFDBD52A9CACC8005913BD /* 5. 最长回文子串  */,
 				DBBFDBE92A9CACC9005913BD /* 6. N 字形变换  */,
+				DBB59C512A9DBAB700035E53 /* 8. 字符串转换整数 */,
 				DBBFDBEB2A9CACC9005913BD /* 11. 盛最多水的容器 */,
+				DBB59C4E2A9D901700035E53 /* 12. 整数转罗马数字  */,
 				DBBFDBDE2A9CACC8005913BD /* 22. 括号生成 */,
 				DBBFDBE52A9CACC9005913BD /* 35. 搜索插入位置  */,
 				DBBFDBD12A9CACC8005913BD /* 136. 只出现一次的数字  */,
@@ -290,9 +312,11 @@
 			files = (
 				DBBFDBED2A9CACC9005913BD /* main.swift in Sources */,
 				DBBFDBEF2A9CACC9005913BD /* Question283.swift in Sources */,
+				DBB59C502A9D902500035E53 /* Question12.swift in Sources */,
 				DBBFDBF72A9CACC9005913BD /* Question189.swift in Sources */,
 				DBBFDBF82A9CACC9005913BD /* String+Ex.swift in Sources */,
 				DBBFDBF42A9CACC9005913BD /* Sort.swift in Sources */,
+				DBB59C532A9DBAC800035E53 /* Question8.swift in Sources */,
 				DBBFDBFA2A9CACC9005913BD /* Question35.swift in Sources */,
 				DBBFDBF32A9CACC9005913BD /* Question167.swift in Sources */,
 				DBBFDBF62A9CACC9005913BD /* Question22.swift in Sources */,
